@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Dima
 - 👀 I’m interested in video game, volleyball, photography and cooking.
-- 🌱 I’m currently learning algorithms and data structures.
-- 💞️ I’m looking to collaborate on open-source projects of python.
 - 📫 You can contact me in telegram - DuMoH112.
 
 <!---
